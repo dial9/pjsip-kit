@@ -25,8 +25,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "PJSIPKit",
-            url: "https://github.com/dial9/pjsip-kit/releases/download/1.1.1/PJSIPKit-1.1.1.xcframework.zip",
-            checksum: "ce5c08d8d2596f20380c6ae815b5899b650f9b717949ae7798440f1af5a2c337"
+            url: "https://github.com/dial9/pjsip-kit/releases/download/1.1.2/PJSIPKit-1.1.2.xcframework.zip",
+            checksum: "44b9b41128ca55917a6dcfabf6b324eda06b1607fcf0cd2890b0263c6d4c7c5e"
         )
     ]
 )
